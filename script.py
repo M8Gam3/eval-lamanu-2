@@ -91,16 +91,16 @@ plt.title('Evolution des températures sur ces 7 dernières années')
 # Adding legend
 plt.legend(title='Températures')
 
+print(temp_dict)
 # Display the plot
 plt.show()
 
-print(temp_dict)
 
 
 
 
 ## moi
+#Les courbes révèlent des fluctuations subtiles, suggérant une tendance générale à l'augmentation des températures au fil des années. Ces résultats indiquent un possible impact du réchauffement climatique, avec une hausse d'environ 3 degrés sur l'ensemble des courbes de 2016 à 2022.
 # je remarque que chacune des courbes montre de légères fluctuations dont des résultats qui démontrent l'augmentation de la température général d'années en années laissant paraître l'impact du réchauffement climatique. une augmentation d'environ 3 degrés sur chacune des courbes de 2016 a 2022.
 
 ## gpt
-#Les courbes révèlent des fluctuations subtiles, suggérant une tendance générale à l'augmentation des températures au fil des années. Ces résultats indiquent un possible impact du réchauffement climatique, avec une hausse d'environ 3 degrés sur l'ensemble des courbes de 2016 à 2022.
