@@ -2,10 +2,11 @@
 
 require_once('./Character/Character.php');
 
-require_once('./Character/filles/Dwarf.php');
-require_once('./Character/filles/Human.php');
 require_once('./Character/traits/Thief.php');
 require_once('./Character/traits/Warrior.php');
+
+require_once('./Character/filles/Dwarf.php');
+require_once('./Character/filles/Human.php');
 
 
 $values['name'] = 'midir';
